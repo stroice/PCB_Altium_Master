@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=R2 Old Footprint=RESC1005X40X25NL05T10 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R4 Old Footprint=RESC1005X40X25NL05T10 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R6 Old Footprint=RESC1005X40X25NL05T10 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R7 Old Footprint=RESC1005X40X25NL05T10 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R9 Old Footprint=RESC1005X40X25NL05T10 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R10 Old Footprint=RESC1005X40X25NL05T10 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R11 Old Footprint=RESC1005X40X25NL05T10 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R1 Old Footprint=RESC1005X40X25NL05T10 New Footprint=RESC0603X28X15NL05T05
+Change Component Footprint: Designator=R3 Old Footprint=RESC1005X40X25NL05T10 New Footprint=RESC0603X28X15NL05T05
+Change Component Footprint: Designator=R8 Old Footprint=RESC1005X40X25NL05T10 New Footprint=RESC0603X28X15NL05T05
+Change Component Comment: Designator=R1 Old Comment=499k? New Comment=499?

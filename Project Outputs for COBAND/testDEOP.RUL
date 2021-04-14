@@ -1,0 +1,13 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\Layout\Layout\testDEOP.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Antena|Scope=Board|Minimum=0.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit_aNTENA|Scope=Board|Allowed=1
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_AFE|Scope=Board|Minimum=2.76
+RuleKind=Clearance|RuleName=Clearance_AFE|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=With_AFE|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Ancho_SIGNAL|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Ancho_PWR|Scope=Board|Minimum=19.69
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.12
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

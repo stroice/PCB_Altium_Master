@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=R1 Old Footprint=RESC0603X28X15ML05T05 New Footprint=RESC0603X28X15NL05T05
+Change Component Footprint: Designator=R3 Old Footprint=RESC0603X28X15ML05T05 New Footprint=RESC0603X28X15NL05T05
+Change Component Footprint: Designator=R8 Old Footprint=RESC0603X28X15ML05T05 New Footprint=RESC0603X28X15NL05T05
+Change Component Footprint: Designator=R5 Old Footprint=RESC0603X28X15ML05T05 New Footprint=RESC1005X40X25NL05T10
+Change Component Designator: OldDesignator=2 NewDesignator=M1
+Change Managed Component Library Link : Designator=R5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=17E44562-D903-4121-92C2-7DEB09CDB4B1 New ItemGUID=80FB652E-4539-4829-9993-A637CE040789 Old RevisionGUID=C59788B4-18CB-4A23-B671-B55D9218D174 New RevisionGUID=94A2CEC6-4378-476E-A667-30F67EBFDA8F
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESC0603X28X15ML05T05"; UniqueID = "\KGCKQBIB\NDUMYFNW" ("\KGCKQBIB\NDUMYFNW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-U02F1501X"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Designator Member=Component M1 MOTOR
+Added Member To Class: ClassName=Alimentación Member=Component R5 164k?

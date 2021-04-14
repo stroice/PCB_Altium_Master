@@ -1,0 +1,106 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Projects\Layout\Layout\testDEOP.PcbDoc
+Date     : 06/04/2021
+Time     : 22:49:47
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Pad L8-1(29.867mm,34.605mm) on Bottom Layer And Track (28.47mm,34.138mm)(31.264mm,34.138mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Pad L8-2(29.867mm,32.655mm) on Bottom Layer And Track (28.47mm,33.122mm)(31.264mm,33.122mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (0.156mm < 0.2mm) Between Region (0 hole(s)) Keep-Out Layer And Track (30.75mm,37.039mm)(33.92mm,37.039mm) on Top Layer 
+Rule Violations :3
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (WithinRoom('Exception_AFE')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) (WithinRoom('Antena')),(WithinRoom('Antena'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Yes) (WithinRoom('Antena')),(WithinRoom('Antena'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Area Fill (35.702mm,34.564mm) (36.602mm,39.517mm) on Top Layer And Track (30.75mm,37.039mm)(33.92mm,37.039mm) on Top Layer Location : [X = 59.249mm][Y = 62.439mm]
+Rule Violations :1
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetC18_2 Between Track (29.921mm,37.854mm)(30.734mm,37.041mm) on Top Layer And Pad F1-2(33.926mm,37.039mm) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=0.4mm) (Preferred=0.2mm) (WithinRoom('Exception_AFE'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.5mm) (Max=2mm) (Preferred=0.5mm) (InNetClass('POWER'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=2mm) (Preferred=0.2mm) (InNetClass('SIGNAL'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=0.5mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.13mm) (All)
+   Violation between Minimum Annular Ring: (Collision < 0.13mm) Via (24.785mm,33.99mm) from Top Layer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.13mm) Via (25.178mm,24.051mm) from Top Layer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.13mm) Via (25.835mm,33.99mm) from Top Layer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.13mm) Via (26.653mm,22.576mm) from Top Layer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.13mm) Via (26.653mm,24.051mm) from Top Layer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.13mm) Via (26.653mm,25.526mm) from Top Layer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.13mm) Via (28.128mm,24.051mm) from Top Layer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.13mm) Via (33.926mm,37.039mm) from Top Layer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+Rule Violations :8
+
+Processing Rule : Minimum Annular Ring (Minimum=0.07mm) (WithinRoom('Exception_AFE'))
+Rule Violations :0
+
+Processing Rule : Acute Angle Constraint (Minimum=60.000) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.15mm) (Max=2.54mm) (WithinRoom('Exception_AFE'))
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.02mm) (WithinRoom('Exception_AFE')),(WithinRoom('Exception_AFE'))
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.5mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.01mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=20mm) (WithinRoom('Antena'))
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0.1mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Room Antena (Bounding Region = (54mm, 61.4mm, 60.2mm, 64mm) (NOT All)
+Rule Violations :0
+
+Processing Rule : Room Exception_AFE (Bounding Region = (51.015mm, 37.375mm, 55.15mm, 41.238mm) (Not All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 13
+Waived Violations : 0
+Time Elapsed        : 00:00:01

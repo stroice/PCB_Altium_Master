@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=R1 Old Footprint=RESC0603X28X15ML05T05 New Footprint=RESC0603X28X15NL05T05
+Change Component Footprint: Designator=R3 Old Footprint=RESC0603X28X15ML05T05 New Footprint=RESC0603X28X15NL05T05
+Change Component Footprint: Designator=R8 Old Footprint=RESC0603X28X15ML05T05 New Footprint=RESC0603X28X15NL05T05
+Change Component Designator: OldDesignator=2 NewDesignator=M1
+Added Component: Designator=R5(RESC1005X40X25NL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-U02F1501X"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Alimentación Member=Component R5 164k?
+Added Room: Name=Acelerómetro
+Added Room: Name=Alimentación
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Main
+Added Room: Name=Sensor BIO
+Added Room: Name=Sensor temperatura y humedad

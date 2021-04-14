@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [COBAND.PrjPcb]
+   Generated File[testDEOP-Plated.TXT]
+   Generated File[testDEOP-Plated.TX1]
+   Generated File[testDEOP.LDP]
+   Generated File[testDEOP.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 22:58:25 On 06/04/2021
